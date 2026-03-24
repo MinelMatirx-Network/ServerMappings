@@ -1,9 +1,9 @@
 {
     "id": "vixtermc",
     "name": "VixterMC",
-    "store": "https://vixtermc-shop.tebex.io/",
+    "store": "https://tienda.vixtermc.com/",
     "addresses": [
-        "vixtermc.com"
+        "104.224.55.95:25565"
     ],
     "primaryAddress": "play.vixtermc.com",
     "primaryColor": "#cc2d2d",
@@ -29,6 +29,6 @@
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.gg/DEqyN8UJbY"
+        "discord": "https://discord.gg/fEFRdRvrDE"
     }
 }
